@@ -1,2 +1,2 @@
 # eureka-boshrelease
-bosh release for config server
+bosh release for Eureka
